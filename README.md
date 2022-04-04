@@ -29,7 +29,7 @@
 ### Activities
 <p>
   <a href="https://github.com/AkiraMori720/" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hosokawa-zen&count_private=true&show_icons=true&theme=tokyonight&hide_title=false" height="180px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hosokawa-zen&count_private=true&show_icons=true&theme=tokyonight&hide_title=true&show_owner=false" height="180px"/>
   </a>
   
   <a href="https://github.com/AkiraMori720/AkiraMori720" >
