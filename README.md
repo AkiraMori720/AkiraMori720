@@ -28,12 +28,12 @@
 
 ### Activities
 <p>
-  <a href="https://github.com/hosokawa-zen/" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hosokawa-zen&count_private=true&show_icons=true&theme=tokyonight" height="180px"/>
+  <a href="https://github.com/AkiraMori720/" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkiraMori720&count_private=true&show_icons=true&theme=tokyonight" height="180px"/>
   </a>
   
-  <a href="https://github.com/hosokawa-zen/hosokawa-zen" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=hosokawa-zen&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=java,html,javascript,css,scss,vue,objective-c,swift,blade,dart,php,tsql,shell,batchfile" alt="Weeorca's GitHub Stats" height="180px"/>
+  <a href="https://github.com/AkiraMori720/AkiraMori720" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=AkiraMori720&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=java,html,javascript,css,scss,vue,objective-c,swift,blade,dart,php,tsql,shell,batchfile" alt="Weeorca's GitHub Stats" height="180px"/>
   </a>
  </p>  
 
@@ -76,9 +76,9 @@
 [CinemaDraft DeFi](http://18.116.235.55/), 
 [SiShiSwap](https://app.sishi.finance/)
 - NFT Dapps<br>
-[Citizen Dao](https://citizen.citydao.io/)
-[Calendar](https://calendar.org/)
-[Hyperxnft](https://hyperxnft.web.app/)
+[Citizen Dao](https://citizen.citydao.io/),
+[Calendar](https://calendar.org/),
+[Hyperxnft](https://hyperxnft.web.app/),
 [Funkiverse](https://funkifoxes.com/), 
 [CryptoPigs](https://cryptopigs.one/#/), 
 [Paganini](https://nft.s2paganini.com)
